@@ -1,3 +1,4 @@
+# DONT USE THIS, IT'S JUST FOR TESTING, USE THE ORIGINAL ONE FROM btd987
 # Bluefin Niri
 
 A custom Fedora Atomic desktop image built on top of [Bluefin](https://projectbluefin.io/), [Bazzite](https://bazzite.gg/), or Fedora Sway Atomic, featuring the [Niri](https://github.com/YaLTeR/niri) scrollable-tiling Wayland compositor. Bluefin and Bazzite variants use [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell); the Fedora Sway Atomic variant uses [Noctalia](https://github.com/noctalia-dev/noctalia-shell).
